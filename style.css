@@ -568,6 +568,11 @@ section .location {
   margin-bottom: 1rem;
 }
 
+.page-break {
+  margin-top: 15px;
+  page-break-before: always;
+}
+
 /******************
 *	HELPER CLASSES
 ******************/
